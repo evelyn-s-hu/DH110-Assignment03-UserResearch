@@ -5,15 +5,21 @@
 
 ## Step 1: Specify the Main Design Challenge
 **What is the main activity your project would support for the users?**  
-**What is the basic need/goal involved for that activity? (reference)**  
+The purpose of this project was mainly to gauge public response to the environment, its issues, and ways to help prevent or slow down environmental issues. With this project, I hoped to better understand how people view (and with what emotions) environmental issues, and what motivations they would need to prompt them to help out with such issues. I also wanted to understand how people view environmental issues in the context of other social issues.  
+**What is the basic need/goal involved for that activity?**  
+This activity fulfills both the safety and social belonging needs in Maslow's hierarchy of needs. As the safety hierarchy involves natural disaster and other aspects that affect human lives, the wellbeing of the environment would fall under this category. Additionally, as environmental issues can be categorized under social issues, as well as the fact that it requires teamwork to make a difference, I would classify this activity as falling under the social belonging category as well.  
 **What is(are) the traditional/current solution(s) to satisfy the needs?**  
+There are multiple solutions to work towards satisfying the problem of environmental issues, though I would argue that it is nigh impossible to truly satisfy the needs or solve environmental issues at this stage of its severity. Regardless, one way for users to make a difference is through their own every day actions and being mindful about their carbon footprint; for example, using reusable items instead of disposables such as water bottles, utensils, cloths instead of napkins, etc. Another way for users to make a difference is through group efforts, such as getting involved with organizations or volunteering to benefit the environment.  
 **What is(are) the limitation(s) that possibly would be improved with (digital) technology?**  
-
+Accessibility to resources and opportunities for volunteering would definitely be improved with digitization, as information would be more accessible to more people. As environmental issues have a lot of depth to them, educating yourself on how to make a difference is an important step when it comes to taking care of the environment; with digitization, all of this information will likely become more accessible.    
 
 ## Step 2: Target Users
-**What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme)**   
+**What are the characteristics of users?**  
+As *everyone* lives in and interacts with the environment, the demographic would correspondingly be very broad as well, as it would benefit everyone to gain access to resources regarding the environment. From young to old, novice to expert, non-experienced to experienced, everyone should aim to educate themselves on how to make a difference starting with little steps. Therefore, the website should aim to cater to a wide demographic of users.    
 **In which context (where, why) would the users do that activity?**   
+Users will generally seek out information regarding the environment following a big news headline, like a wildfire or oil spill in order to gain better understanding about it. Users may seek out volunteering opportunities when the need arises; for example, high schoolers may be required to volunteer before graduation. Additionally, as more and more sustainability programs are being instilled throughout every day life (like UCLA's zero waste policy, for example), users may be prompted to research sustainability methods, such as how to properly sort trash.  
 **What do/did the users usually do in order to complete that activity?**   
+Users would generally search up a relevant search term in their search engine of choice and click the first couple options that pop up, due to ease of accessibility and convenience. Users will be deterred from further interacting with a webpage if they are met with a wall of text upon opening the link; websites must be eye-catching in order to retain interest.  
 
 ## Step 3: Pick Research Methods
 To better understand potential users, I chose to conduct a contextual inquiry. This was done over Zoom, with the participant sharing their screen so observations could be made.  
