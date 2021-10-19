@@ -1,7 +1,7 @@
 # Contextual Inquiry for the Washington State Department of Ecology Website
 **Author:** Evelyn Hu  
 **Course:** DH110 User Interface and Design  
-**Description:** A 
+**Description:** A comprehensive contextual inquiry conducted to identify points of improvement for the Washington State Department of Ecology website. An appropriate research method has been specified and consequently conducted with a participant in order to gain insight on areas of improvement.
 
 ## Step 1: Specify the Main Design Challenge
 **What is the main activity your project would support for the users?**  
