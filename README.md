@@ -24,7 +24,7 @@
   
 ## Step 4: Observation/Interview Guide
 View the contextual inquiry script here: 
-
+https://docs.google.com/document/d/130NRBE-QrIIGh1-fgtSKQqK7lMQhxCnEUDkCzZUH_AA/edit?usp=sharing
 
 ## Step 5: Conducting the Research
 Interview transcript and/or observation notes
